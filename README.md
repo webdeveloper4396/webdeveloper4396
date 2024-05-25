@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sigma
+- 👋 Hi, I’m Professor 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on webdevloper4396@gmail.com
